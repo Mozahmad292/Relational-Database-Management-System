@@ -1,3 +1,5 @@
-###Relational-Database-Management-System###
+# Relational-Database-Management-System
 
-RDBMS development/sql prctice following Udemy course -"The Ultimate MySQL Bootcamp Go from SQL Beginner to Expert"
+# 1. " University-Course-Registration "- Academic Database Project
+
+# 2. RDBMS Development/SQL prctice following the Udemy Course -" The Ultimate MySQL Bootcamp Go from SQL Beginner to Expert "
